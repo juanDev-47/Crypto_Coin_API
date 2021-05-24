@@ -8,7 +8,12 @@ las cuales son:
 ```
 
 * Bitcoin
-* 
+* Ethereum
+* XRP
+* Tether
+* Binance Coin
+* Cardano
+* Dogecoin
 
 ### Link del sitio
 [Cotizador de cripto monedas](https://wizardly-payne-cb80f0.netlify.app)
